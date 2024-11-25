@@ -1,0 +1,13 @@
+CamPhish
+
+Simply transmit a link to capture screenshots from the target's PC webcam or phone's front camera. CamPhish
+
+CamPhish: What is it?
+CamPhish is the practice of taking pictures of the target's PC webcam or phone's front camera. CamPhish uses a built-in PHP server to host a phony website and uses ngrok and serveo to create a URL that we provide to the target so they can access it online. This tool takes screenshots of the target's device when the website requests camera access.
+
+This tool's features include two automatic webpage templates that I built for engaged targets to obtain further cam images.
+
+Festival Wishing Live Online Meeting on YouTube TV [Beta]
+Enter the name of the festival or the video ID on YouTube.
+
+This instrument was tested.
